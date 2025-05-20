@@ -76,6 +76,7 @@
         });
         }
         initTexts();
+        console.log("Estou refatorando o código");
       </script>
   </footer>
   </body>
