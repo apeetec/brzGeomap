@@ -77,8 +77,6 @@
         }
         initTexts();
       </script>
-      
-
   </footer>
   </body>
 </html>
